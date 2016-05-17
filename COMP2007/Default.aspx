@@ -38,7 +38,7 @@
     </nav>
     <div class="container">
         <div class="row">
-            <div class="col-md-offest-3 col-md-6">
+            <div class="col-md-offset-3 col-md-6">
                 <h1>User Profile</h1>
                 <form class="form" id="form1" runat="server">
                     <div class="form-group">
